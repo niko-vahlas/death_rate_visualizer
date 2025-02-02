@@ -1,0 +1,3079 @@
+[
+  {
+    "brand": "Kia",
+    "model": "Kia Rio sedan",
+    "size": "mini",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 48,
+      "rate": 122,
+      "upperBound": 197
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 59,
+      "rate": 133,
+      "upperBound": 207
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Spark",
+    "size": "mini",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 90,
+      "rate": 151,
+      "upperBound": 212
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 8,
+      "rate": 36,
+      "upperBound": 64
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Accent",
+    "size": "mini",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 61,
+      "rate": 152,
+      "upperBound": 242
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 14,
+      "rate": 64,
+      "upperBound": 114
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Mirage hatchback",
+    "size": "mini",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 93,
+      "rate": 183,
+      "upperBound": 273
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 30,
+      "upperBound": 62
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Mirage G4",
+    "size": "mini",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 107,
+      "rate": 205,
+      "upperBound": 303
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 12,
+      "rate": 54,
+      "upperBound": 97
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Niro hybrid",
+    "size": "mini",
+    "type": "station wagons/minivans",
+    "driverDeathRate": {
+      "lowerBound": 15,
+      "rate": 43,
+      "upperBound": 71
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 4,
+      "rate": 28,
+      "upperBound": 51
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Fit",
+    "size": "mini",
+    "type": "station wagons/minivans",
+    "driverDeathRate": {
+      "lowerBound": 25,
+      "rate": 53,
+      "upperBound": 81
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 10,
+      "rate": 28,
+      "upperBound": 47
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Bolt",
+    "size": "small",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 8,
+      "upperBound": 19
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 19,
+      "upperBound": 41
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Prius Prime",
+    "size": "small",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 23,
+      "upperBound": 45
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 20,
+      "rate": 50,
+      "upperBound": 80
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru WRX",
+    "size": "small",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 19,
+      "rate": 38,
+      "upperBound": 58
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 10,
+      "rate": 27,
+      "upperBound": 45
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Prius",
+    "size": "small",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 23,
+      "rate": 45,
+      "upperBound": 67
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 30,
+      "rate": 51,
+      "upperBound": 72
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Impreza sedan",
+    "size": "small",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 18,
+      "rate": 46,
+      "upperBound": 74
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 10,
+      "rate": 37,
+      "upperBound": 64
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Civic",
+    "size": "small",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 29,
+      "rate": 49,
+      "upperBound": 69
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 28,
+      "rate": 47,
+      "upperBound": 65
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Corolla",
+    "size": "small",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 31,
+      "rate": 58,
+      "upperBound": 86
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 30,
+      "rate": 60,
+      "upperBound": 90
+    },
+    "modelYearSpan": "2020"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Civic hatchback",
+    "size": "small",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 26,
+      "rate": 78,
+      "upperBound": 130
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 20,
+      "upperBound": 44
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Elantra",
+    "size": "small",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 48,
+      "rate": 103,
+      "upperBound": 157
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 10,
+      "rate": 47,
+      "upperBound": 84
+    },
+    "modelYearSpan": "2020"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Sonic",
+    "size": "small",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 50,
+      "rate": 107,
+      "upperBound": 164
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 38,
+      "rate": 82,
+      "upperBound": 127
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Forte",
+    "size": "small",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 62,
+      "rate": 111,
+      "upperBound": 160
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 55,
+      "rate": 96,
+      "upperBound": 138
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Impreza wagon",
+    "size": "small",
+    "type": "station wagons/minivans",
+    "driverDeathRate": {
+      "lowerBound": 8,
+      "rate": 23,
+      "upperBound": 39
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 13,
+      "rate": 31,
+      "upperBound": 49
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru XV Crosstrek",
+    "size": "small",
+    "type": "station wagons/minivans",
+    "driverDeathRate": {
+      "lowerBound": 11,
+      "rate": 24,
+      "upperBound": 37
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 15,
+      "rate": 28,
+      "upperBound": 40
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Soul",
+    "size": "small",
+    "type": "station wagons/minivans",
+    "driverDeathRate": {
+      "lowerBound": 6,
+      "rate": 63,
+      "upperBound": 120
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 11,
+      "rate": 68,
+      "upperBound": 125
+    },
+    "modelYearSpan": "2020"
+  },
+  {
+    "brand": "GMC",
+    "model": "GMC Canyon Crew Cab 4WD",
+    "size": "small",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 5,
+      "upperBound": 14
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 5,
+      "rate": 34,
+      "upperBound": 62
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Tacoma Double Cab long bed 4WD",
+    "size": "small",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 6,
+      "upperBound": 18
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 11,
+      "rate": 45,
+      "upperBound": 78
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Ranger Crew Cab 4WD",
+    "size": "small",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 14,
+      "upperBound": 31
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 9,
+      "rate": 43,
+      "upperBound": 77
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Gladiator 4WD",
+    "size": "small",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 15,
+      "upperBound": 37
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 32,
+      "rate": 93,
+      "upperBound": 154
+    },
+    "modelYearSpan": "2020"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Colorado Crew Cab 4WD",
+    "size": "small",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 10,
+      "rate": 21,
+      "upperBound": 32
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 23,
+      "rate": 41,
+      "upperBound": 58
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Tacoma Double Cab short bed 4WD",
+    "size": "small",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 13,
+      "rate": 24,
+      "upperBound": 35
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 11,
+      "rate": 24,
+      "upperBound": 36
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Tacoma Double Cab short bed 2WD",
+    "size": "small",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 8,
+      "rate": 27,
+      "upperBound": 46
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 37,
+      "rate": 64,
+      "upperBound": 91
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Colorado Extended Cab 2WD",
+    "size": "small",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 8,
+      "rate": 34,
+      "upperBound": 59
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 12,
+      "rate": 45,
+      "upperBound": 77
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Colorado Crew Cab 2WD",
+    "size": "small",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 10,
+      "rate": 36,
+      "upperBound": 62
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 30,
+      "rate": 63,
+      "upperBound": 96
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Frontier King Cab 2WD",
+    "size": "small",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 12,
+      "rate": 40,
+      "upperBound": 68
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 13,
+      "rate": 50,
+      "upperBound": 87
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Frontier Crew Cab short bed 4WD",
+    "size": "small",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 28,
+      "rate": 56,
+      "upperBound": 85
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 24,
+      "rate": 51,
+      "upperBound": 78
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Frontier Crew Cab short bed 2WD",
+    "size": "small",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 27,
+      "rate": 58,
+      "upperBound": 88
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 34,
+      "rate": 65,
+      "upperBound": 97
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota C-HR",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 2,
+      "upperBound": 7
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 4,
+      "rate": 19,
+      "upperBound": 34
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda CR-V 4WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 14,
+      "upperBound": 36
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 27,
+      "upperBound": 55
+    },
+    "modelYearSpan": "2020"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Santa Fe 2WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 17,
+      "upperBound": 39
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 31,
+      "rate": 76,
+      "upperBound": 121
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Santa Fe 4WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 19,
+      "upperBound": 37
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 22,
+      "upperBound": 49
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota RAV4 hybrid 4WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 20,
+      "upperBound": 40
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 16,
+      "upperBound": 32
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Compass 2WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 6,
+      "rate": 27,
+      "upperBound": 48
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 11,
+      "rate": 35,
+      "upperBound": 58
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Outlander Sport 4WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 3,
+      "rate": 28,
+      "upperBound": 53
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 17,
+      "rate": 66,
+      "upperBound": 114
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Equinox 4WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 30,
+      "upperBound": 62
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 6,
+      "rate": 39,
+      "upperBound": 72
+    },
+    "modelYearSpan": "2020"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Forester",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 13,
+      "rate": 30,
+      "upperBound": 48
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 8,
+      "rate": 21,
+      "upperBound": 33
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda HR-V 4WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 14,
+      "rate": 31,
+      "upperBound": 48
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 6,
+      "rate": 19,
+      "upperBound": 33
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota RAV4 2WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 13,
+      "rate": 35,
+      "upperBound": 56
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 11,
+      "rate": 30,
+      "upperBound": 48
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Outlander 2WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 11,
+      "rate": 36,
+      "upperBound": 61
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 22,
+      "rate": 60,
+      "upperBound": 97
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Outlander Sport 2WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 13,
+      "rate": 39,
+      "upperBound": 64
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 13,
+      "rate": 50,
+      "upperBound": 87
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Tucson 4WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 7,
+      "rate": 40,
+      "upperBound": 73
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 8,
+      "rate": 36,
+      "upperBound": 64
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Compass 4WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 24,
+      "rate": 41,
+      "upperBound": 58
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 32,
+      "rate": 49,
+      "upperBound": 66
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Escape 4WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 1,
+      "rate": 43,
+      "upperBound": 85
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 12,
+      "rate": 54,
+      "upperBound": 97
+    },
+    "modelYearSpan": "2020"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Equinox 2WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 17,
+      "rate": 49,
+      "upperBound": 80
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 34,
+      "rate": 77,
+      "upperBound": 120
+    },
+    "modelYearSpan": "2020"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Renegade 4WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 25,
+      "rate": 49,
+      "upperBound": 72
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 27,
+      "rate": 46,
+      "upperBound": 66
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Renegade 2WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 21,
+      "rate": 50,
+      "upperBound": 78
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 53,
+      "rate": 90,
+      "upperBound": 128
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Rogue 2WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 23,
+      "rate": 52,
+      "upperBound": 82
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 39,
+      "rate": 71,
+      "upperBound": 103
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Rogue 4WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 23,
+      "rate": 53,
+      "upperBound": 82
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 15,
+      "rate": 40,
+      "upperBound": 65
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Mitsubishi Outlander 4WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 12,
+      "rate": 53,
+      "upperBound": 95
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 27,
+      "rate": 73,
+      "upperBound": 118
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota RAV4 4WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 30,
+      "rate": 56,
+      "upperBound": 83
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 28,
+      "rate": 50,
+      "upperBound": 73
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Trax 4WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 26,
+      "rate": 59,
+      "upperBound": 91
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 4,
+      "rate": 19,
+      "upperBound": 35
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Hyundai Tucson 2WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 16,
+      "rate": 60,
+      "upperBound": 105
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 23,
+      "upperBound": 46
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda HR-V 2WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 29,
+      "rate": 63,
+      "upperBound": 96
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 15,
+      "rate": 37,
+      "upperBound": 59
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford EcoSport 4WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 29,
+      "rate": 67,
+      "upperBound": 104
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 14,
+      "rate": 45,
+      "upperBound": 76
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford EcoSport 2WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 35,
+      "rate": 84,
+      "upperBound": 132
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 2,
+      "rate": 30,
+      "upperBound": 58
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Trax 2WD",
+    "size": "small",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 57,
+      "rate": 89,
+      "upperBound": 121
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 39,
+      "rate": 63,
+      "upperBound": 86
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz GLA Class 4WD",
+    "size": "small",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 20,
+      "upperBound": 42
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 26,
+      "upperBound": 58
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Buick",
+    "model": "Buick Encore 4WD",
+    "size": "small",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 12,
+      "rate": 45,
+      "upperBound": 77
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 6,
+      "upperBound": 19
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Buick",
+    "model": "Buick Encore 2WD",
+    "size": "small",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 38,
+      "rate": 64,
+      "upperBound": 90
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 23,
+      "rate": 42,
+      "upperBound": 61
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Camry hybrid",
+    "size": "midsize",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 19,
+      "upperBound": 38
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 22,
+      "rate": 66,
+      "upperBound": 109
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Fusion hybrid",
+    "size": "midsize",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 25,
+      "upperBound": 56
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 12,
+      "rate": 54,
+      "upperBound": 97
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Accord hybrid",
+    "size": "midsize",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 1,
+      "rate": 45,
+      "upperBound": 90
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 4,
+      "rate": 54,
+      "upperBound": 104
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Accord",
+    "size": "midsize",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 34,
+      "rate": 46,
+      "upperBound": 57
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 32,
+      "rate": 44,
+      "upperBound": 55
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Jetta",
+    "size": "midsize",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 24,
+      "rate": 47,
+      "upperBound": 69
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 24,
+      "rate": 45,
+      "upperBound": 66
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Camry",
+    "size": "midsize",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 38,
+      "rate": 48,
+      "upperBound": 59
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 40,
+      "rate": 50,
+      "upperBound": 61
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Fusion",
+    "size": "midsize",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 30,
+      "rate": 67,
+      "upperBound": 104
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 6,
+      "rate": 28,
+      "upperBound": 49
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Optima",
+    "size": "midsize",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 45,
+      "rate": 80,
+      "upperBound": 115
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 86,
+      "rate": 134,
+      "upperBound": 182
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Malibu",
+    "size": "midsize",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 73,
+      "rate": 91,
+      "upperBound": 108
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 52,
+      "rate": 66,
+      "upperBound": 80
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Altima",
+    "size": "midsize",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 75,
+      "rate": 113,
+      "upperBound": 151
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 62,
+      "rate": 94,
+      "upperBound": 126
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus ES 350",
+    "size": "midsize",
+    "type": "luxury cars",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 0,
+      "upperBound": 29
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 3,
+      "rate": 37,
+      "upperBound": 72
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi A4 2WD",
+    "size": "midsize",
+    "type": "luxury cars",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 7,
+      "upperBound": 21
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 22,
+      "upperBound": 48
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz C-Class sedan 4WD",
+    "size": "midsize",
+    "type": "luxury cars",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 9,
+      "upperBound": 21
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 26,
+      "upperBound": 53
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Tesla",
+    "model": "Tesla Model 3 2WD",
+    "size": "midsize",
+    "type": "luxury cars",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 15,
+      "upperBound": 33
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 21,
+      "upperBound": 43
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi A4 4WD",
+    "size": "midsize",
+    "type": "luxury cars",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 17,
+      "upperBound": 36
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 1,
+      "rate": 21,
+      "upperBound": 41
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz C-Class sedan 2WD",
+    "size": "midsize",
+    "type": "luxury cars",
+    "driverDeathRate": {
+      "lowerBound": 5,
+      "rate": 28,
+      "upperBound": 51
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 22,
+      "rate": 57,
+      "upperBound": 92
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Acura",
+    "model": "Acura TLX 2WD",
+    "size": "midsize",
+    "type": "luxury cars",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 31,
+      "upperBound": 64
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 15,
+      "rate": 57,
+      "upperBound": 98
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Tesla",
+    "model": "Tesla Model 3 4WD",
+    "size": "midsize",
+    "type": "luxury cars",
+    "driverDeathRate": {
+      "lowerBound": 9,
+      "rate": 52,
+      "upperBound": 96
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 10,
+      "rate": 47,
+      "upperBound": 85
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz CLA-Class 2WD",
+    "size": "midsize",
+    "type": "luxury cars",
+    "driverDeathRate": {
+      "lowerBound": 11,
+      "rate": 64,
+      "upperBound": 117
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 3,
+      "rate": 46,
+      "upperBound": 89
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Mustang coupe",
+    "size": "midsize",
+    "type": "sports cars",
+    "driverDeathRate": {
+      "lowerBound": 31,
+      "rate": 59,
+      "upperBound": 86
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 35,
+      "rate": 66,
+      "upperBound": 98
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Mustang GT coupe",
+    "size": "midsize",
+    "type": "sports cars",
+    "driverDeathRate": {
+      "lowerBound": 45,
+      "rate": 77,
+      "upperBound": 109
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 32,
+      "rate": 59,
+      "upperBound": 86
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Mustang convertible",
+    "size": "midsize",
+    "type": "sports cars",
+    "driverDeathRate": {
+      "lowerBound": 41,
+      "rate": 97,
+      "upperBound": 153
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 7,
+      "rate": 46,
+      "upperBound": 84
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Outback",
+    "size": "midsize",
+    "type": "station wagons/minivans",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 5,
+      "upperBound": 15
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 24,
+      "upperBound": 53
+    },
+    "modelYearSpan": "2020"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Pathfinder 2WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 0,
+      "upperBound": 22
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 25,
+      "rate": 72,
+      "upperBound": 119
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Murano 2WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 4,
+      "upperBound": 12
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 11,
+      "rate": 42,
+      "upperBound": 74
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Traverse 4WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 6,
+      "upperBound": 13
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 5,
+      "rate": 21,
+      "upperBound": 38
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Subaru",
+    "model": "Subaru Ascent",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 6,
+      "upperBound": 16
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 16,
+      "upperBound": 33
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Edge 4WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 6,
+      "upperBound": 15
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 3,
+      "rate": 22,
+      "upperBound": 40
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Pilot 2WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 7,
+      "upperBound": 20
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 33,
+      "upperBound": 67
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "GMC",
+    "model": "GMC Acadia 2WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 2,
+      "rate": 10,
+      "upperBound": 19
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 19,
+      "rate": 41,
+      "upperBound": 63
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "GMC",
+    "model": "GMC Acadia 4WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 3,
+      "rate": 11,
+      "upperBound": 20
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 29,
+      "rate": 52,
+      "upperBound": 74
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Grand Cherokee 4WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 6,
+      "rate": 12,
+      "upperBound": 17
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 33,
+      "rate": 44,
+      "upperBound": 54
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Pilot 4WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 13,
+      "upperBound": 30
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 1,
+      "rate": 20,
+      "upperBound": 39
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Volkswagen Atlas 4WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 20,
+      "upperBound": 52
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 19,
+      "upperBound": 40
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Murano 4WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 22,
+      "upperBound": 43
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 9,
+      "rate": 38,
+      "upperBound": 68
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Explorer 4WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 22,
+      "upperBound": 47
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 10,
+      "rate": 38,
+      "upperBound": 66
+    },
+    "modelYearSpan": "2020"
+  },
+  {
+    "brand": "Buick",
+    "model": "Buick Enclave 4WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 23,
+      "upperBound": 47
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 7,
+      "rate": 37,
+      "upperBound": 68
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Blazer 2WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 23,
+      "upperBound": 49
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 32,
+      "rate": 93,
+      "upperBound": 154
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Nissan Pathfinder 4WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 25,
+      "upperBound": 53
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 11,
+      "rate": 40,
+      "upperBound": 69
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Sorento 4WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 9,
+      "rate": 26,
+      "upperBound": 43
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 19,
+      "rate": 40,
+      "upperBound": 61
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Traverse 2WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 9,
+      "rate": 30,
+      "upperBound": 50
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 10,
+      "rate": 27,
+      "upperBound": 44
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Cherokee 4WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 22,
+      "rate": 34,
+      "upperBound": 46
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 25,
+      "rate": 37,
+      "upperBound": 49
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Sorento 2WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 17,
+      "rate": 35,
+      "upperBound": 53
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 44,
+      "rate": 67,
+      "upperBound": 91
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Buick",
+    "model": "Buick Enclave 2WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 1,
+      "rate": 38,
+      "upperBound": 75
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 20,
+      "rate": 73,
+      "upperBound": 126
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Wrangler 4-door 4WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 25,
+      "rate": 39,
+      "upperBound": 54
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 39,
+      "rate": 56,
+      "upperBound": 73
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Grand Cherokee 2WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 18,
+      "rate": 40,
+      "upperBound": 62
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 68,
+      "rate": 103,
+      "upperBound": 138
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford Edge 2WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 2,
+      "rate": 49,
+      "upperBound": 96
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 6,
+      "rate": 33,
+      "upperBound": 60
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Wrangler 2-door 4WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 6,
+      "rate": 54,
+      "upperBound": 102
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 21,
+      "rate": 89,
+      "upperBound": 157
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Jeep Cherokee 2WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 34,
+      "rate": 55,
+      "upperBound": 77
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 38,
+      "rate": 59,
+      "upperBound": 79
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Journey 2WD",
+    "size": "midsize",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 40,
+      "rate": 62,
+      "upperBound": 83
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 66,
+      "rate": 90,
+      "upperBound": 114
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW X3 4WD",
+    "size": "midsize",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 0,
+      "upperBound": 29
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 7,
+      "rate": 44,
+      "upperBound": 81
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi Q5 4WD",
+    "size": "midsize",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 2,
+      "upperBound": 6
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 7,
+      "rate": 21,
+      "upperBound": 35
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo XC90 4WD",
+    "size": "midsize",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 4,
+      "upperBound": 13
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 11,
+      "rate": 49,
+      "upperBound": 87
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Volvo",
+    "model": "Volvo XC60 4WD",
+    "size": "midsize",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 5,
+      "upperBound": 16
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 16,
+      "upperBound": 39
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus RX 350 4WD",
+    "size": "midsize",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 5,
+      "upperBound": 10
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 6,
+      "rate": 20,
+      "upperBound": 33
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Acura",
+    "model": "Acura RDX 4WD",
+    "size": "midsize",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 6,
+      "upperBound": 18
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 40,
+      "upperBound": 82
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "BMW",
+    "model": "BMW X5 4WD",
+    "size": "midsize",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 6,
+      "upperBound": 19
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 3,
+      "rate": 40,
+      "upperBound": 76
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Porsche Macan",
+    "size": "midsize",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 6,
+      "upperBound": 14
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 1,
+      "rate": 18,
+      "upperBound": 35
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Acura",
+    "model": "Acura MDX 4WD",
+    "size": "midsize",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 6,
+      "upperBound": 16
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 1,
+      "rate": 14,
+      "upperBound": 28
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus NX 300 2WD",
+    "size": "midsize",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 6,
+      "upperBound": 17
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 27,
+      "upperBound": 59
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus RX 450h 4WD",
+    "size": "midsize",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 7,
+      "upperBound": 22
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 22,
+      "upperBound": 53
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus RX 350 2WD",
+    "size": "midsize",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 1,
+      "rate": 10,
+      "upperBound": 19
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 8,
+      "rate": 27,
+      "upperBound": 46
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Acura",
+    "model": "Acura MDX 2WD",
+    "size": "midsize",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 11,
+      "upperBound": 27
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 13,
+      "rate": 60,
+      "upperBound": 108
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Lexus",
+    "model": "Lexus NX 300 4WD",
+    "size": "midsize",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 13,
+      "upperBound": 32
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 19,
+      "upperBound": 48
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Buick",
+    "model": "Buick Envision 4WD",
+    "size": "midsize",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 10,
+      "rate": 36,
+      "upperBound": 61
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 5,
+      "rate": 35,
+      "upperBound": 66
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Buick",
+    "model": "Buick Envision 2WD",
+    "size": "midsize",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 13,
+      "rate": 51,
+      "upperBound": 88
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 11,
+      "rate": 39,
+      "upperBound": 68
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Charger 4WD",
+    "size": "large",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 32,
+      "upperBound": 67
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 11,
+      "rate": 52,
+      "upperBound": 94
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Chrysler",
+    "model": "Chrysler 300 2WD",
+    "size": "large",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 30,
+      "rate": 61,
+      "upperBound": 92
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 39,
+      "rate": 78,
+      "upperBound": 117
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Impala",
+    "size": "large",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 55,
+      "rate": 80,
+      "upperBound": 105
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 55,
+      "rate": 77,
+      "upperBound": 100
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Charger 2WD",
+    "size": "large",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 56,
+      "rate": 91,
+      "upperBound": 126
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 72,
+      "rate": 105,
+      "upperBound": 137
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Chrysler",
+    "model": "Chrysler 300 4WD",
+    "size": "large",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 37,
+      "rate": 100,
+      "upperBound": 164
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 28,
+      "rate": 82,
+      "upperBound": 136
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Charger HEMI 2WD",
+    "size": "large",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 72,
+      "rate": 118,
+      "upperBound": 164
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 115,
+      "rate": 164,
+      "upperBound": 213
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Challenger 2WD",
+    "size": "large",
+    "type": "cars",
+    "driverDeathRate": {
+      "lowerBound": 116,
+      "rate": 154,
+      "upperBound": 192
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 65,
+      "rate": 91,
+      "upperBound": 118
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz E-Class sedan 4WD",
+    "size": "large",
+    "type": "luxury cars",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 0,
+      "upperBound": 22
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 10,
+      "upperBound": 24
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Tesla",
+    "model": "Tesla Model S 4WD",
+    "size": "large",
+    "type": "luxury cars",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 17,
+      "upperBound": 33
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 8,
+      "rate": 38,
+      "upperBound": 67
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "Mercedes-Benz E-Class sedan 2WD",
+    "size": "large",
+    "type": "luxury cars",
+    "driverDeathRate": {
+      "lowerBound": 5,
+      "rate": 27,
+      "upperBound": 48
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 22,
+      "upperBound": 46
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Genesis",
+    "model": "Genesis G80",
+    "size": "large",
+    "type": "luxury cars",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 30,
+      "upperBound": 69
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 8,
+      "rate": 49,
+      "upperBound": 90
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Camaro coupe",
+    "size": "large",
+    "type": "sports cars",
+    "driverDeathRate": {
+      "lowerBound": 76,
+      "rate": 110,
+      "upperBound": 145
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 58,
+      "rate": 88,
+      "upperBound": 117
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Camaro convertible",
+    "size": "large",
+    "type": "sports cars",
+    "driverDeathRate": {
+      "lowerBound": 34,
+      "rate": 113,
+      "upperBound": 191
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 10,
+      "rate": 69,
+      "upperBound": 127
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Tundra Double Cab short bed 4WD",
+    "size": "large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 12,
+      "upperBound": 28
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 0,
+      "rate": 25,
+      "upperBound": 50
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Silverado 1500 Extended Cab 4WD",
+    "size": "large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 14,
+      "upperBound": 31
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 12,
+      "rate": 41,
+      "upperBound": 70
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Ram",
+    "model": "Ram 1500 Classic Quad Cab 4WD",
+    "size": "large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 23,
+      "upperBound": 49
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 9,
+      "rate": 49,
+      "upperBound": 88
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "GMC",
+    "model": "GMC Sierra 1500 Crew Cab 4WD",
+    "size": "large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 9,
+      "rate": 24,
+      "upperBound": 38
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 29,
+      "rate": 54,
+      "upperBound": 78
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Silverado 1500 Crew Cab 4WD",
+    "size": "large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 14,
+      "rate": 25,
+      "upperBound": 37
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 38,
+      "rate": 56,
+      "upperBound": 73
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Ram",
+    "model": "Ram 1500 Crew Cab short bed 2WD",
+    "size": "large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 28,
+      "upperBound": 63
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 49,
+      "rate": 104,
+      "upperBound": 159
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford F-150 SuperCab 4WD",
+    "size": "large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 3,
+      "rate": 29,
+      "upperBound": 55
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 7,
+      "rate": 37,
+      "upperBound": 66
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford F-150 SuperCrew 2WD",
+    "size": "large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 5,
+      "rate": 30,
+      "upperBound": 55
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 25,
+      "rate": 56,
+      "upperBound": 86
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford F-150 SuperCrew 4WD",
+    "size": "large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 20,
+      "rate": 30,
+      "upperBound": 41
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 55,
+      "rate": 71,
+      "upperBound": 87
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Ram",
+    "model": "Ram 1500 Quad Cab 4WD",
+    "size": "large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 31,
+      "upperBound": 62
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 24,
+      "rate": 73,
+      "upperBound": 122
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Silverado 1500 Crew Cab 2WD",
+    "size": "large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 8,
+      "rate": 33,
+      "upperBound": 58
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 9,
+      "rate": 35,
+      "upperBound": 62
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Tundra Crew Max 4WD",
+    "size": "large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 15,
+      "rate": 34,
+      "upperBound": 52
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 29,
+      "rate": 50,
+      "upperBound": 71
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Ram",
+    "model": "Ram 1500 Crew Cab short bed 4WD",
+    "size": "large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 20,
+      "rate": 35,
+      "upperBound": 51
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 37,
+      "rate": 54,
+      "upperBound": 71
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Ram",
+    "model": "Ram 1500 Classic Crew Cab short bed 4WD",
+    "size": "large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 1,
+      "rate": 51,
+      "upperBound": 100
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 30,
+      "rate": 83,
+      "upperBound": 135
+    },
+    "modelYearSpan": "2019-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Tahoe 2WD",
+    "size": "large",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 9,
+      "upperBound": 17
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 24,
+      "rate": 50,
+      "upperBound": 76
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Tahoe 4WD",
+    "size": "large",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 3,
+      "rate": 16,
+      "upperBound": 28
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 22,
+      "rate": 42,
+      "upperBound": 61
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "GMC",
+    "model": "GMC Yukon 4WD",
+    "size": "large",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 4,
+      "rate": 22,
+      "upperBound": 40
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 22,
+      "rate": 50,
+      "upperBound": 77
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "GMC",
+    "model": "GMC Yukon 2WD",
+    "size": "large",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 24,
+      "upperBound": 55
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 13,
+      "rate": 58,
+      "upperBound": 104
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Durango 4WD",
+    "size": "large",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 8,
+      "rate": 24,
+      "upperBound": 39
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 38,
+      "rate": 63,
+      "upperBound": 87
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Durango 2WD",
+    "size": "large",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 5,
+      "rate": 40,
+      "upperBound": 76
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 44,
+      "rate": 88,
+      "upperBound": 132
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac Escalade 4WD",
+    "size": "large",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 3,
+      "rate": 26,
+      "upperBound": 48
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 8,
+      "rate": 49,
+      "upperBound": 90
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Toyota Sienna 2WD",
+    "size": "very large",
+    "type": "station wagons/minivans",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 5,
+      "upperBound": 13
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 24,
+      "rate": 53,
+      "upperBound": 81
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Honda",
+    "model": "Honda Odyssey",
+    "size": "very large",
+    "type": "station wagons/minivans",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 6,
+      "upperBound": 13
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 22,
+      "rate": 38,
+      "upperBound": 54
+    },
+    "modelYearSpan": "2018-20"
+  },
+  {
+    "brand": "Chrysler",
+    "model": "Chrysler Pacifica 2WD",
+    "size": "very large",
+    "type": "station wagons/minivans",
+    "driverDeathRate": {
+      "lowerBound": 10,
+      "rate": 20,
+      "upperBound": 29
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 28,
+      "rate": 41,
+      "upperBound": 55
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Dodge Grand Caravan",
+    "size": "very large",
+    "type": "station wagons/minivans",
+    "driverDeathRate": {
+      "lowerBound": 34,
+      "rate": 48,
+      "upperBound": 62
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 38,
+      "rate": 52,
+      "upperBound": 66
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Kia",
+    "model": "Kia Sedona",
+    "size": "very large",
+    "type": "station wagons/minivans",
+    "driverDeathRate": {
+      "lowerBound": 20,
+      "rate": 53,
+      "upperBound": 87
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 42,
+      "rate": 88,
+      "upperBound": 135
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford F-250 SuperCab 4WD",
+    "size": "very large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 2,
+      "rate": 22,
+      "upperBound": 41
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 52,
+      "rate": 95,
+      "upperBound": 139
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford F-350 Crew Cab 4WD",
+    "size": "very large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 16,
+      "rate": 29,
+      "upperBound": 42
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 118,
+      "rate": 147,
+      "upperBound": 176
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Ford",
+    "model": "Ford F-250 Crew Cab 4WD",
+    "size": "very large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 22,
+      "rate": 32,
+      "upperBound": 42
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 102,
+      "rate": 120,
+      "upperBound": 139
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Ram",
+    "model": "Ram 2500 Crew Cab short bed 4WD",
+    "size": "very large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 21,
+      "rate": 33,
+      "upperBound": 46
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 99,
+      "rate": 122,
+      "upperBound": 146
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Ram",
+    "model": "Ram 3500 Crew Cab long bed 4WD",
+    "size": "very large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 16,
+      "rate": 37,
+      "upperBound": 57
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 140,
+      "rate": 189,
+      "upperBound": 239
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Ram",
+    "model": "Ram 2500 Crew Cab long bed 4WD",
+    "size": "very large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 7,
+      "rate": 42,
+      "upperBound": 76
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 42,
+      "rate": 83,
+      "upperBound": 125
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Ram",
+    "model": "Ram 2500 Mega Cab 4WD",
+    "size": "very large",
+    "type": "pickups",
+    "driverDeathRate": {
+      "lowerBound": 22,
+      "rate": 65,
+      "upperBound": 108
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 70,
+      "rate": 145,
+      "upperBound": 220
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "GMC",
+    "model": "GMC Yukon XL 1500 4WD",
+    "size": "very large",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 11,
+      "upperBound": 28
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 20,
+      "rate": 53,
+      "upperBound": 87
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Suburban 1500 4WD",
+    "size": "very large",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 5,
+      "rate": 21,
+      "upperBound": 37
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 23,
+      "rate": 49,
+      "upperBound": 74
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Chevrolet Suburban 1500 2WD",
+    "size": "very large",
+    "type": "SUVs",
+    "driverDeathRate": {
+      "lowerBound": 9,
+      "rate": 54,
+      "upperBound": 99
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 13,
+      "rate": 48,
+      "upperBound": 83
+    },
+    "modelYearSpan": "2017-20"
+  },
+  {
+    "brand": "Cadillac",
+    "model": "Cadillac Escalade ESV 4WD",
+    "size": "very large",
+    "type": "luxury SUVs",
+    "driverDeathRate": {
+      "lowerBound": 0,
+      "rate": 27,
+      "upperBound": 67
+    },
+    "otherDriverDeathRate": {
+      "lowerBound": 15,
+      "rate": 69,
+      "upperBound": 123
+    },
+    "modelYearSpan": "2017-20"
+  }
+]
